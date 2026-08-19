@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">ALYCRI MONTERRY</title>
+  <desc id="desc">Logotipo geometrico para empresa de muebles y acabados interiores</desc>
+  <defs>
+    <linearGradient id="g" x1="40" y1="28" x2="204" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7B56D"/>
+      <stop offset="0.48" stop-color="#A7803E"/>
+      <stop offset="1" stop-color="#F3DEAA"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="204" height="204" rx="38" fill="#1D2324"/>
+  <path d="M61 164 105 70h31l44 94h-31l-8-19H99l-8 19H61Zm48-43h22l-11-27-11 27Z" fill="url(#g)"/>
+  <path d="M74 178h92" stroke="#F4EEE3" stroke-width="9" stroke-linecap="round"/>
+  <path d="M60 55h120v20H60z" fill="#F4EEE3" opacity=".88"/>
+</svg>
