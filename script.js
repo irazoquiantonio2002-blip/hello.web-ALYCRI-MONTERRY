@@ -54,11 +54,11 @@ window.addEventListener("load", revealVisibleNow);
 setTimeout(revealVisibleNow, 650);
 
 const words = [
-  "muebles a medida",
-  "cocinas funcionales",
-  "acabados interiores",
-  "closets personalizados",
-  "baños contemporáneos"
+  "ventanas de aluminio",
+  "puertas de alta resistencia",
+  "canceles para baño",
+  "barandales de cristal",
+  "espejos a la medida"
 ];
 const twText = document.getElementById("twText");
 let wordIndex = 0;
@@ -157,7 +157,7 @@ document.getElementById("cForm")?.addEventListener("submit", (event) => {
   }
 
   const body = [
-    "Hola, quiero cotizar un proyecto con ALYCRI MONTERRY.",
+    "Hola, quiero cotizar un proyecto con ALYCRI MONTERREY.",
     `Nombre: ${nombre}`,
     `Telefono: ${telefono}`,
     `Tipo de proyecto: ${tipo}`,
